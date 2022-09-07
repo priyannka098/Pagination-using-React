@@ -1,0 +1,25 @@
+.image{
+    height:50px;
+    width:50px;
+}
+
+.table-div{
+display: flex;
+flex-direction: column;
+height: 500px;
+align-items: center;
+}
+
+.table-box{
+    height: 90%;
+    width: 80%;
+    overflow-y: auto;
+    display: flex;
+    justify-content: center;
+}
+
+
+.buttons-div{
+    display: flex;
+    justify-content: center;
+}
